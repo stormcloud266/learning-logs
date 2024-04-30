@@ -1,7 +1,7 @@
 ---
 title: "Title of the Concept or Topic"
 date: YYYY-MM-DD
-tags: ["tag1", "tag2", "tag3"] # Optional: Add tags relevant to the topic
+tags: ["tag1", "tag2", "tag3"]
 ---
 
 # Introduction
